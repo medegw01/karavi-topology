@@ -15,6 +15,7 @@ You may obtain a copy of the License at
 [![Docker Pulls](https://img.shields.io/docker/pulls/dellemc/karavi-topology)](https://hub.docker.com/r/dellemc/karavi-topology)
 [![Go version](https://img.shields.io/github/go-mod/go-version/dell/karavi-topology)](go.mod)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/dell/karavi-topology?include_prereleases&label=latest&style=flat-square)](https://github.com/dell/karavi-topology/releases/latest)
+[![Coverage Status](https://coveralls.io/repos/github/medegw01/karavi-topology/badge.svg?branch=main)](https://coveralls.io/github/medegw01/karavi-topology?branch=main)
 
 Karavi Topology is part of the Karavi Observability storage enabler, which provides Kubernetes administrators standardized approaches for storage observability in Kuberenetes environments.
 
