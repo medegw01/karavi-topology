@@ -36,7 +36,7 @@ jobs:
         with:
           threshold: 90
   coveralls:
-    name: Analize package cvoerage with coverall
+    name: Analyze package cvoerage with coverall
     runs-on: ubuntu-latest
     steps:
       - name: Checkout the code
