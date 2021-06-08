@@ -89,6 +89,10 @@ func (s *Service) logHandler(h func(http.ResponseWriter, *http.Request)) func(ht
 	return http.HandlerFunc(fn)
 }
 
+func demo(in string) string {
+	return in
+}
+
 func (s *Service) rootRequest(w http.ResponseWriter, r *http.Request) {
 	w.WriteHeader(http.StatusOK)
 }
